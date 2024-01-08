@@ -1,0 +1,11 @@
+Department,Min Value,Max Value,Median Value,Count < 15hrs,Count > 15hrs,Median <= 15hrs,Puntaje Mejor Locacion
+Lima,4,15,7.0,10,0,6.5,93.0
+Huancayo,3,14,7.0,10,0,7.0,93.0
+Huancavelica,3,17,7.5,9,1,7.0,83.25
+Ayacucho,5,19,8.5,8,2,7.5,73.2
+Huánuco,3,20,8.0,9,1,8.0,82.8
+Cerro de Pasco,3,18,9.0,9,1,8.0,81.9
+Ica,4,20,9.5,9,1,9.0,81.45
+Pucallpa,8,27,16.0,5,5,9.5,42.0
+Huaraz,6,23,12.5,7,3,10.0,61.25
+Abancay,8,27,14.5,6,4,11.0,51.3
